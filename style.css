@@ -1,0 +1,835 @@
+.galileo-design .depth-6-frame-02 {
+    width: 16px;
+    height: 16px;
+  }
+  .galileo-design .depth-5-frame-03 {
+    margin: 3.3px 16px 3.8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 16px;
+    height: 16px;
+    box-sizing: border-box;
+  }
+  .galileo-design .writer {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: -0.3px;
+    line-height: 1.25;
+    color: #0D171C;
+  }
+  .galileo-design .depth-5-frame-12 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-3-frame-0 {
+    margin: 8.8px 0 8.3px 0;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .galileo-design .use-cases {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #0D171C;
+  }
+  .galileo-design .depth-5-frame-05 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .galileo-design .features {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #0D171C;
+  }
+  .galileo-design .depth-5-frame-13 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .galileo-design .pricing {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #0D171C;
+  }
+  .galileo-design .depth-5-frame-22 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .galileo-design .api {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #0D171C;
+  }
+  .galileo-design .depth-5-frame-31 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .galileo-design .docs {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #0D171C;
+  }
+  .galileo-design .depth-5-frame-41 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .galileo-design .blog {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #0D171C;
+  }
+  .galileo-design .depth-5-frame-51 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-4-frame-0 {
+    margin: 9.5px 32px 9.5px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 440.1px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .galileo-design .sign-up {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    line-height: 1.5;
+    color: #F7FAFA;
+  }
+  .galileo-design .depth-6-frame-04 {
+    background: #2194DE;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-right: 0.3px;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-5-frame-06 {
+    border-radius: 12px;
+    background: #2194DE;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 9.5px 16px;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-4-frame-11 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-3-frame-1 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-2-frame-0 {
+    border-bottom: 1px solid #E5E8EB;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 12.5px 40px 11.5px 40px;
+    width: 1280px;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-8-frame-02 {
+    border-radius: 20px;
+    background: url('../assets/images/depth8Frame0.png') 50% / cover no-repeat;
+    width: 40px;
+    height: 40px;
+  }
+  .galileo-design .depth-7-frame-02 {
+    margin: 0 12px 5px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+  }
+  .galileo-design .jane-smith {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #0D171C;
+  }
+  .galileo-design .depth-8-frame-03 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .galileo-design .editor {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #4F7A94;
+  }
+  .galileo-design .depth-8-frame-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-7-frame-11 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-6-frame-05 {
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .galileo-design .vector-01 {
+    width: 24px;
+    height: 24px;
+  }
+  .galileo-design .depth-8-frame-04 {
+    margin-right: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    box-sizing: border-box;
+  }
+  .galileo-design .dashboard {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #dbe6ec;
+  }
+  .galileo-design .depth-8-frame-11 {
+    background-color: #007bff; /* Example button color */
+    color: #ffffff; /* Example text color */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .galileo-design .depth-7-frame-03 {
+    margin: 0 12px 16px 12px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .galileo-design .vector-02 {
+    width: 24px;
+    height: 24px;
+  }
+  .galileo-design .depth-8-frame-05 {
+    margin-right: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    box-sizing: border-box;
+  }
+  .galileo-design .report-generator {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #f3f7f9;
+  }
+  .galileo-design .depth-8-frame-12 {
+    background-color: #007bff; /* Example button color */
+    color: #ffffff; /* Example text color */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    
+  }
+  .galileo-design .depth-7-frame-12 {
+    border-radius: 12px;
+    background: #E8EDF2;
+    margin-bottom: 16px;
+    display: flex;
+    flex-direction: row;
+    padding: 8px 0 8px 12px;
+    width: 275px;
+    box-sizing: border-box;
+  }
+  .galileo-design .vector-03 {
+    width: 24px;
+    height: 24px;
+  }
+  .galileo-design .depth-8-frame-06 {
+    margin-right: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    box-sizing: border-box;
+  }
+  .galileo-design .customization {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #e8eef2;
+  }
+  .galileo-design .depth-8-frame-13 {
+    background-color: #007bff; /* Example button color */
+    color: #ffffff; /* Example text color */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .galileo-design .depth-7-frame-2 {
+    margin: 0 12px 24px 12px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .galileo-design .vector-04 {
+    width: 24px;
+    height: 24px;
+  }
+  .galileo-design .depth-8-frame-07 {
+    margin-right: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    box-sizing: border-box;
+  }
+  .galileo-design .settings {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #0D171C;
+  }
+  .galileo-design .depth-8-frame-14 {
+    margin: 1.5px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-7-frame-3 {
+    margin: 0 12px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-6-frame-12 {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-4-frame-01 {
+    background: #F7FAFA;
+    display: flex;
+    flex-direction: column;
+    padding: 16px 16px 581.5px 16px;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-3-frame-01 {
+    margin-right: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .galileo-design .generate-content-for-your-reports {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 32px;
+    letter-spacing: -0.8px;
+    line-height: 1.25;
+    color: #0D171C;
+  }
+  .galileo-design .depth-6-frame-0 {
+    margin-bottom: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    box-sizing: border-box;
+  }
+  .galileo-design .use-this-tool-to-generate-content-for-your-reports-presentations-and-more-simply-enter-atopic-set-the-length-and-let-writer-do-the-rest {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #4F7A94;
+  }
+  .galileo-design .depth-6-frame-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-4-frame-02 {
+    margin: 0 20px 28px 4px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .galileo-design .report-topic {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #0D171C;
+  }
+  .galileo-design .depth-7-frame-0 {
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    box-sizing: border-box;
+  }
+  .galileo-design .enter-atopic {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #4F7A94;
+  }
+  .galileo-design .depth-8-frame-0 {
+    border-radius: 12px;
+    background: #E8EDF2;
+    padding: 16px;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-7-frame-1 {
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-4-frame-1 {
+    margin: 0 4px 28px 4px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .galileo-design .set-report-parameters {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: -0.3px;
+    line-height: 1.25;
+    color: #0D171C;
+  }
+  .galileo-design .depth-4-frame-2 {
+    margin: 0 4px 19.5px 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    box-sizing: border-box;
+  }
+  .galileo-design .analytical {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #0D171C;
+  }
+  .galileo-design .depth-5-frame-0 {
+    border-radius: 12px;
+    background: #E8EDF2;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 5.5px 16px;
+    box-sizing: border-box;
+  }
+  .galileo-design .informational {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #0D171C;
+  }
+  .galileo-design .depth-5-frame-1 {
+    border-radius: 12px;
+    background: #E8EDF2;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 5.5px 16.1px 5.5px 16px;
+    box-sizing: border-box;
+  }
+  .galileo-design .narrative {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #0D171C;
+  }
+  .galileo-design .depth-5-frame-2 {
+    border-radius: 12px;
+    background: #E8EDF2;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 5.5px 16px;
+    box-sizing: border-box;
+  }
+  .galileo-design .scientific {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #0D171C;
+  }
+  .galileo-design .depth-5-frame-3 {
+    border-radius: 12px;
+    background: #E8EDF2;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 5.5px 16.1px 5.5px 16px;
+    box-sizing: border-box;
+  }
+  .galileo-design .research {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #0D171C;
+  }
+  .galileo-design .depth-5-frame-4 {
+    border-radius: 12px;
+    background: #E8EDF2;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 5.5px 16px;
+    box-sizing: border-box;
+  }
+  .galileo-design .technical {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #0D171C;
+  }
+  .galileo-design .depth-5-frame-5 {
+    border-radius: 12px;
+    background: #E8EDF2;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 5.5px 16.1px 5.5px 16px;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-4-frame-3 {
+    margin-bottom: 28px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    column-gap: 12px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .galileo-design .basic {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #0D171C;
+  }
+  .galileo-design .depth-5-frame-01 {
+    border-radius: 12px;
+    border: 1px solid #D1DEE5;
+    margin-right: 11.6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px 16px 12px 14px;
+    box-sizing: border-box;
+  }
+  .galileo-design .intermediate {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #0D171C;
+  }
+  .galileo-design .depth-5-frame-11 {
+    border-radius: 12px;
+    border: 1px solid #D1DEE5;
+    margin-right: 12.6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px 16px 12px 14px;
+    box-sizing: border-box;
+  }
+  .galileo-design .advanced {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #0D171C;
+  }
+  .galileo-design .depth-5-frame-21 {
+    border-radius: 12px;
+    border: 1px solid #D1DEE5;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px 16px 12px 14px;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-4-frame-4 {
+    margin: 0 4px 28px 4px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .galileo-design .generate-content {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: 0.2px;
+    line-height: 1.5;
+    color: #F7FAFA;
+  }
+  .galileo-design .depth-6-frame-01 {
+    background: #2194DE;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-right: 0.4px;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-5-frame-02 {
+    border-radius: 12px;
+    background: #2194DE;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 12px 0;
+    width: 480px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-4-frame-5 {
+    margin: 0 4px 28px 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    width: 480px;
+    box-sizing: border-box;
+  }
+  .galileo-design .preview {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: -0.3px;
+    line-height: 1.25;
+    color: #0D171C;
+  }
+  .galileo-design .depth-4-frame-6 {
+    margin: 0 4px 11.5px 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    box-sizing: border-box;
+  }
+  .galileo-design .the-following-is-an-example-of-what-generated-content-might-look-like-for-the-topic-you-entered-this-is-just-aplaceholder-and-does-not-represent-actual-generated-content {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #0D171C;
+  }
+  .galileo-design .depth-4-frame-7 {
+    margin: 0 26.3px 28px 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .galileo-design .heres-where-the-preview-will-appear {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: -0.3px;
+    line-height: 1.25;
+    color: #0D171C;
+  }
+  .galileo-design .depth-6-frame-03 {
+    margin-bottom: 23.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .galileo-design .download {
+    overflow-wrap: break-word;
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    line-height: 1.5;
+    color: #0D171C;
+  }
+  .galileo-design .depth-8-frame-01 {
+    background: #E8EDF2;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-right: 0.3px;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-7-frame-01 {
+    border-radius: 12px;
+    background: #E8EDF2;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 9.5px 16px;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-6-frame-11 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-5-frame-04 {
+    border-radius: 12px;
+    border: 2px dashed #D1DEE5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 54px 0 58px 0;
+    width: 889px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-4-frame-8 {
+    margin-left: 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 889px;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-3-frame-11 {
+    margin: 16px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-2-frame-1 {
+    margin: 0 40px 0 24px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .galileo-design .depth-0-frame-0 {
+    background: #F7FAFA;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .galileo-design {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1280px;
+    box-sizing: border-box;
+  }
+  
